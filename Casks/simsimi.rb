@@ -11,6 +11,5 @@ cask "simsimi" do
 
   zap trash: [
     "~/Library/Application Support/SimSimi",
-    "~/Library/Preferences/com.your.bundle.id.plist",
   ]
 end
